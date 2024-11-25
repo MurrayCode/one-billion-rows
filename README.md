@@ -10,6 +10,13 @@ Find the average temperature for each weather station
 Find the min and max temperature for each weather station
 output the results for each weather station in alphabetical order
 
+
+## The plan
+
+My aim for this is to investigate various ways to benchmark and improve performance in Go.
+I will start with a simple approach and then try to improve the performance of the code iteratively and record each iteration with a 
+brief description in the README.
+
 ## First pass
 
 First pass at this problem I went with a simple approach.
